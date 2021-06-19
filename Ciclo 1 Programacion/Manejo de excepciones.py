@@ -56,3 +56,5 @@ except Exception as e: #el error se almacena en e
 
 #LANZAR EXCEPCIONES A VOLUNTAD (CREAR ERROR APROPOSITO)
 raise ZeroDivisionError('Esta dividiendo entre 0')
+
+#pass es palabra reservada, solo no hace nada, nada de nada, serviria para rellenar un bloque de codigo
